@@ -28,28 +28,6 @@ A modern bioinformatics web application for DNA and protein sequence analysis.
 - React Router
 - BioJS
 
-## Getting Started
-
-1. Clone the repository:
-```bash
-git clone https://github.com/AmeenVadakkekara/genescope.git
-cd genescope
-```
-
-2. Install dependencies:
-```bash
-npm install
-```
-
-3. Run the development server:
-```bash
-npm start
-```
-
-4. Build for production:
-```bash
-npm run build
-```
 
 ## Deployment
 
@@ -65,6 +43,4 @@ Visit the live application at: [https://ameenvadakkekara.github.io/genescope](ht
 **Ameen Vadakkekara**  
 Contact: av2851@nyu.edu
 
-## License
 
-This project is licensed under the MIT License.
