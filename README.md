@@ -32,8 +32,8 @@ A modern bioinformatics web application for DNA and protein sequence analysis.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/AmeenVadakkekara/dna-analyzer.git
-cd dna-analyzer
+git clone https://github.com/AmeenVadakkekara/genescope.git
+cd genescope
 ```
 
 2. Install dependencies:
@@ -58,7 +58,7 @@ The application is deployed using GitHub Pages. To deploy:
 npm run deploy
 ```
 
-Visit the live application at: [https://ameenvadakkekara.github.io/dna-analyzer](https://ameenvadakkekara.github.io/dna-analyzer)
+Visit the live application at: [https://ameenvadakkekara.github.io/genescope](https://ameenvadakkekara.github.io/genescope)
 
 ## Author
 
