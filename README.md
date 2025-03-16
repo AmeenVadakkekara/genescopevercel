@@ -36,7 +36,7 @@ The application is deployed using GitHub Pages. To deploy:
 npm run deploy
 ```
 
-Visit the live application at: [[https://ameenvadakkekara.github.io/genescope](https://genescopevercel-1gr3.vercel.app/)]([https://ameenvadakkekara.github.io/genescope](https://genescopevercel-1gr3.vercel.app/))
+Visit the live application at: (https://genescopevercel-1gr3.vercel.app/)
 
 ## Author
 
